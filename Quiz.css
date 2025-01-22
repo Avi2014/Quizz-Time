@@ -38,6 +38,9 @@ button {
   font-size: medium;
   border-radius: 5px;
 }
+button:focus {
+  background-color: rgb(192, 186, 197);
+}
 .correct {
   background-color: lightgreen;
 }
